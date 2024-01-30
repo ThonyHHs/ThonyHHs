@@ -49,11 +49,3 @@
   </div>
 </div>
 
-<br>
-<hr>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thonyhhs&repo=display_de_informacoes&theme=material-palenight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thonyhhs&repo=snakeGame&theme=material-palenight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thonyhhs&repo=pokemon&theme=material-palenight&hide_border=true">
-</div>
