@@ -16,24 +16,34 @@
 
 ## **Skils**
 
-<div style="display: flex-">
+<div>
     <code><img width="30" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
     <code><img width="30" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
     <code><img width="30" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
     <code><img width="30" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
     <code><img width="30" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thonyhhs&layout=compact&theme=material-palenight">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thonyhhs&layout=compact&theme=material-palenight&hide_border=true">
 </div>
 
+  <br>
+  
+<div align="left">
+  <details>
+    <summary>Studying</summary>
+    <br>
+      <img width="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+      <img width="40" alt="C Plus Plus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+      <img width="40" alt="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+      <img width="40" alt="DotNet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  </details>
+</div>
+
+
+<br>
 <hr>
 
-<details>
-  <summary>Studying</summary>
-  <br>
-  <div line-height: 1.2 style="display: inline_block">
-    <img width="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img width="40" alt="C Plus Plus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img width="40" alt="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img width="40" alt="DotNet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  </div>
-</details>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thonyhhs&repo=display_de_informacoes&theme=material-palenight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thonyhhs&repo=snakeGame&theme=material-palenight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thonyhhs&repo=pokemon&theme=material-palenight&hide_border=true">
+</div>
