@@ -23,7 +23,7 @@
 ## **About**
 * Anthony Herbert
 * Student
-* Passionate about computing
+* I like computers 🤓
 
 ## **Skils**
 
