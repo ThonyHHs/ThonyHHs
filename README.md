@@ -22,9 +22,9 @@ TODO: colocar uma logo (no lado esquerdo ou em cima)
 <div align="center">
   <h4>Activities</h4>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThonyHHs/ThonyHHs/733d4880832961be4a3d2d2145847f7fb1300e10/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThonyHHs/ThonyHHs/733d4880832961be4a3d2d2145847f7fb1300e10/snake-light.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ThonyHHs/ThonyHHs/733d4880832961be4a3d2d2145847f7fb1300e10/snake-light.svg"/>
   </picture>
 </div>
 
