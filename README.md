@@ -6,11 +6,11 @@ TODO: colocar uma logo (no lado esquerdo ou em cima)
   <h3>✨ Oi, eu sou o Thony ✨</h3>
   <p>😉 Me chamo Anthony Herbert</p>
   <p>🎓 Sou estudante</p>
-  <p>⚡ Aficionado por hardware e software👾</p>
+  <p>⚡ Aficionado por hardware e software 👾</p>
   <p>✈️ Apaixonado por aviação</p>
 </div>
 
-<br/>
+<hr>
 
 <div align="center">
   <h3>⚙️Minhas Skills</h3>
@@ -27,5 +27,3 @@ TODO: colocar uma logo (no lado esquerdo ou em cima)
     <img alt="github-snake" src="https://raw.githubusercontent.com/ThonyHHs/ThonyHHs/733d4880832961be4a3d2d2145847f7fb1300e10/snake-light.svg"/>
   </picture>
 </div>
-
-<!-- Readme inspirado em https://github.com/olob0/olob0 -->
